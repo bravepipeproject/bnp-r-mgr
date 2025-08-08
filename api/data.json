@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.4.0/BravePipe_v0.27.7-2.4.0.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.4.0/BravePipe_v0.28.0-2.4.0.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.4.0/BravePipe_conscrypt_v0.27.7-2.4.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.4.0/BravePipe_conscrypt_v0.28.0-2.4.0.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.4.0/BravePipe_legacy_v0.27.7-2.4.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.4.0/BravePipe_legacy_v0.28.0-2.4.0.apk"
           }
         ],
-        "version": "0.27.7-2.4.0",
-        "version_code": 441004,
-        "change_log": "BravePipe Release 0.27.7-2.4.0\n\n- RUMBLE: fix live stream related empty list issue\n- RUMBLE: experimental support for Hls streams to download at all.\n          only tested on arm64. Please test and report here:\n          https://github.com/bravepipeproject/BravePipeExtractor/issues/184\n\n"
+        "version": "0.28.0-2.4.0",
+        "version_code": 451005,
+        "change_log": "BravePipe Release 0.28.0-2.4.0\n\n- sync with NewPipe v0.28.0\n- fix loading of DownloadDialog quicker on non SponsorBlock platforms\n- refactor DownloadDialog -> move most BravePipe related code to BraveDownloadDialog\n- make giga downloader CircularFileWriter and FileStreamSAF more robust\n- fix multiple entries in navigation menu (donation related)\n- RUMBLE: fix postprocessing for Hls streams to mux correctly after download.\n          Please test and report here:\n          https://github.com/bravepipeproject/BravePipeExtractor/issues/184\n\n- Warning regarding BravePipeLegacy: I could not test this release but it might work\n\n"
       }
     }
   }
