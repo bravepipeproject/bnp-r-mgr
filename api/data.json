@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.1/BravePipe_v0.28.0-2.5.1.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.2/BravePipe_v0.28.0-2.5.2.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.1/BravePipe_conscrypt_v0.28.0-2.5.1.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.2/BravePipe_conscrypt_v0.28.0-2.5.2.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.1/BravePipe_legacy_v0.28.0-2.5.1.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.2/BravePipe_legacy_v0.28.0-2.5.2.apk"
           }
         ],
-        "version": "0.28.0-2.5.1",
-        "version_code": 471005,
-        "change_log": "BravePipe Release 0.28.0-2.5.1\n\n- RUMBLE: fix channel listing thx @catfromplan9\n\n"
+        "version": "0.28.0-2.5.2",
+        "version_code": 481005,
+        "change_log": "BravePipe Release 0.28.0-2.5.2\n\n- RUMBLE: feature: select live stream quality based on users preffered quality\n- RUMBLE: fix: playback of recently ended live streams despite ongoing post-processing\n\n"
       }
     }
   }
