@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.3/BravePipe_v0.28.0-2.5.3.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.6.0/BravePipe_v0.28.0-2.6.0.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.3/BravePipe_conscrypt_v0.28.0-2.5.3.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.6.0/BravePipe_conscrypt_v0.28.0-2.6.0.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.5.3/BravePipe_legacy_v0.28.0-2.5.3.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.0-2.6.0/BravePipe_legacy_v0.28.0-2.6.0.apk"
           }
         ],
-        "version": "0.28.0-2.5.3",
-        "version_code": 491005,
-        "change_log": "BravePipe Release 0.28.0-2.5.3\n\n- RUMBLE: fix channel listing thx again @catfromplan9\n\n"
+        "version": "0.28.0-2.6.0",
+        "version_code": 501005,
+        "change_log": "BravePipe Release 0.28.0-2.6.0\n\n- RUMBLE: try to reduce 403's due to cloudflare challenge\n  This feature needs to be enabled via 'settings' -> 'brave settings' -> 'Handle Rumble cloudflare challenge'\n- RUMBLE: fix comment like extraction\n- RUMBLE: fix channel 'about' link extraction\n\n"
       }
     }
   }
