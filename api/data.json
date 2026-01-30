@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.1-2.6.0/BravePipe_v0.28.1-2.6.0.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.2-2.6.0/BravePipe_v0.28.2-2.6.0.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.1-2.6.0/BravePipe_conscrypt_v0.28.1-2.6.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.2-2.6.0/BravePipe_conscrypt_v0.28.2-2.6.0.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.1-2.6.0/BravePipe_legacy_v0.28.1-2.6.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.2-2.6.0/BravePipe_legacy_v0.28.2-2.6.0.apk"
           }
         ],
-        "version": "0.28.1-2.6.0",
-        "version_code": 511006,
-        "change_log": "BravePipe Release 0.28.1-2.6.0\n\n- sync with NewPipe v0.28.1\n\n"
+        "version": "0.28.2-2.6.0",
+        "version_code": 521007,
+        "change_log": "BravePipe Release 0.28.2-2.6.0\n\n- sync with NewPipe v0.28.2\n\n"
       }
     }
   }
