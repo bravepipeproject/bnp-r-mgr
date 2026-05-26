@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.4-2.8.0/BravePipe_v0.28.4-2.8.0.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_v0.28.7-2.8.0.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.4-2.8.0/BravePipe_conscrypt_v0.28.4-2.8.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_conscrypt_v0.28.7-2.8.0.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.4-2.8.0/BravePipe_legacy_v0.28.4-2.8.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_legacy_v0.28.7-2.8.0.apk"
           }
         ],
-        "version": "0.28.4-2.8.0",
-        "version_code": 551009,
-        "change_log": "BravePipe Release 0.28.4-2.8.0\n\n- Rumble: updated challengeFloatsAway to 1.1.1 (fix permissions problems)\n- Feature: \"save custom search filter presets\"\n- Youtube: fix playlist extraction\n\n"
+        "version": "0.28.7-2.8.0",
+        "version_code": 561012,
+        "change_log": "BravePipe Release 0.28.7-2.8.0\n\n- sync with v0.28.7\n\n"
       }
     }
   }
