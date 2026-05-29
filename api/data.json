@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_v0.28.7-2.8.0.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_v0.28.7-2.8.1.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_conscrypt_v0.28.7-2.8.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_conscrypt_v0.28.7-2.8.1.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.0/BravePipe_legacy_v0.28.7-2.8.0.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_legacy_v0.28.7-2.8.1.apk"
           }
         ],
-        "version": "0.28.7-2.8.0",
-        "version_code": 561012,
-        "change_log": "BravePipe Release 0.28.7-2.8.0\n\n- sync with v0.28.7\n\n"
+        "version": "0.28.7-2.8.1",
+        "version_code": 571012,
+        "change_log": "BravePipe Release 0.28.7-2.8.1\n\n- YOUTUBE fix 360p video problem\n\n"
       }
     }
   }
