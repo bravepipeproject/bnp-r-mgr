@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_v0.28.7-2.8.1.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_v0.28.8-2.8.2.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_conscrypt_v0.28.7-2.8.1.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_conscrypt_v0.28.8-2.8.2.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.7-2.8.1/BravePipe_legacy_v0.28.7-2.8.1.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_legacy_v0.28.8-2.8.2.apk"
           }
         ],
-        "version": "0.28.7-2.8.1",
-        "version_code": 571012,
-        "change_log": "BravePipe Release 0.28.7-2.8.1\n\n- YOUTUBE fix 360p video problem\n\n"
+        "version": "0.28.8-2.8.2",
+        "version_code": 581013,
+        "change_log": "BravePipe Release 0.28.8-2.8.2\n\n- sync with v0.28.8\n- RUMBLE: fix channel items extractor (thx catfromplan9)\n\n"
       }
     }
   }
