@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_v0.28.8-2.8.2.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.3/BravePipe_v0.28.8-2.8.3.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_conscrypt_v0.28.8-2.8.2.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.3/BravePipe_conscrypt_v0.28.8-2.8.3.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.2/BravePipe_legacy_v0.28.8-2.8.2.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.28.8-2.8.3/BravePipe_legacy_v0.28.8-2.8.3.apk"
           }
         ],
-        "version": "0.28.8-2.8.2",
-        "version_code": 581013,
-        "change_log": "BravePipe Release 0.28.8-2.8.2\n\n- sync with v0.28.8\n- RUMBLE: fix channel items extractor (thx catfromplan9)\n\n"
+        "version": "0.28.8-2.8.3",
+        "version_code": 591013,
+        "change_log": "BravePipe Release 0.28.8-2.8.3\n\n- bump BravePipeExtractor v0.26.5-2.3.7\n- RUMBLE: Rumble: fix related videos and comment loading (thx catfromplan9)\n\n"
       }
     }
   }
